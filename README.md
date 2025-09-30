@@ -1,7 +1,7 @@
 # Python Intro Projects 🐍
 
 This repository contains a collection of small Python projects completed while learning programming fundamentals.  
-Each project demonstrates key concepts such as variables, control flow, functions, loops, lists, and basic algorithms.  
+Each project demonstrates key concepts such as variables, control flow, functions, loops, lists, basic algorithms, and simple user interaction.  
 
 The goal of this repo is to showcase my hands-on practice as I build a foundation in Python for future applications in **data science, applied mathematics, and AI/ML engineering**.
 
@@ -28,6 +28,14 @@ A console-based to-do list manager.
 - View all current tasks
 - Demonstrates lists, loops, and user-driven input
 
+### 🍽️ Food Order System
+A console-based food ordering program that:
+- Lets users choose between **Italian** or **Indian** food
+- Displays available meals for the selected cuisine
+- Allows ordering multiple quantities of a selected meal
+- Confirms if the meal is available or not
+- Demonstrates lists, functions, conditional logic, and user input handling
+
 ---
 
 ## Skills Demonstrated
@@ -42,7 +50,13 @@ A console-based to-do list manager.
 ## How to Run
 Clone the repo and run any script in your terminal:
 
-```bash
-git clone https://github.com/jaruss1003/Python-Intro-Projects.git
-cd Python-Intro-Projects
-python rock_paper_scissors.py
+```git clone https://github.com/jaruss1003/Python-Intro-Projects.git```
+
+Change into the directory
+
+```cd Python-Intro-Projects```
+
+Run the script 
+
+python filename.py
+
