@@ -49,7 +49,14 @@ A console-based food ordering program that:
 
 ## How to Run
 Clone the repo and run any script in your terminal:
+
 ```git clone https://github.com/jaruss1003/Python-Intro-Projects.git```
+
+Change into the directory
+
 ```cd Python-Intro-Projects```
+
+Run the script 
+
 python filename.py
 
