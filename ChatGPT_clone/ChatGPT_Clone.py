@@ -2,7 +2,7 @@ import os
 import requests
 
 api_key = os.getenv("MIMO_OPENAI_API_KEY")
-url = "https://chatgpt.com"
+url = "https://ai.mimo.org/v1/openai/message"
 headers = {"api-key": api_key}
 
 def send_message(user_message, current_thread_id):
